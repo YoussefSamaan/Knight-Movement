@@ -1,7 +1,7 @@
 # Knight-Movement
 
-the knightmovement.py program keeps finding all the moves for a knight one step at a time untill the end-point is found.
+the number_of_steps_slow.py program keeps finding all the next moves for a knight one step at a time untill the end-point is found.
 
-the shortest_path_for_a_knight.py program goes through different if-statements which gives the steps you need to take get to the end-point (number of steps and path you need to take).
+the number_of_steps_medium.py program goes through different if-else statements which gives specific instructions on the steps you need to take get to the end-point (number of steps and path you need to take).
 
-the no_of_steps.py program also goes through different if-statements to find the minimum number of steps needed to get to a point (only number of steps).
+the number_of_steps_fast.py calculates the number of steps it would take a knight to get to the destination in O(1) time complexity and O(1) space complexity.
